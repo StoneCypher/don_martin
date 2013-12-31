@@ -1,4 +1,6 @@
 
+% "bash sprazot yip glink chukkunk splapple sklizzorch sklizzorch gleep thork ho blib ho spashle blamp gloople skapasch doop slapth deebe"
+
 -module(don_martin).
 
 
@@ -8,7 +10,10 @@
 -export([
 
     word/0,
-      word/1
+      word/1,
+
+    words/0,
+      words/1
 
 ]).
 
@@ -179,3 +184,19 @@ word(154) -> "zikka";
 word(155) -> "zlitz";
 word(156) -> "zock";
 word(157) -> "zwot".
+
+
+
+
+
+words() ->
+
+    words(sc:rand(5) + 3).
+
+
+
+
+
+words(Count) ->
+
+    sc:implode(" ", [ word() || _I <- lists:seq(1,Count) ]).
