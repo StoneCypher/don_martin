@@ -3,6 +3,7 @@ don_martin
 
 Makes Don Martin words, phrases, etc.  Whee.  (If you're not a Mad Magazine reader, don't bother.)
 
+![](pffft.jpg)
 
 
 
@@ -11,10 +12,7 @@ What?
 
 Don Martin is a cartoonist noted in part for extensive use of creative onomatopoeia.
 
-![](in_a_fancy_restaurant.jpg)
 ![](leg_exerciser.jpg)
-![](pffft.jpg)
-
 
 
 
@@ -82,5 +80,7 @@ Polemic :neckbeard:
 -------------------
 
 `don_martin` is MIT licensed, because viral licenses and newspeak language modification are evil.  Free is ***only*** free when it's free for everyone.
+
+![](in_a_fancy_restaurant.jpg)
 
 You know, inasmuch as I can license Don Martin's joke.
