@@ -21,7 +21,7 @@
 
 
 
-word() -> word(sc:rand(158)).
+word() -> word(sc:rand(157) + 1).
 
 
 
