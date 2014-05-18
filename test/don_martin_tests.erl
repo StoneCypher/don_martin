@@ -20,3 +20,15 @@ word_test_() ->
         { "157", ?_assert("zwot" == don_martin:word(157) ) }
 
     ] }.
+
+
+
+
+words_test_() ->
+
+    { "words() tests", [
+
+        { "words/0", ?_assert( is_list(don_martin:words())                                ) },
+        { "words/1", ?_assert( 2 == length([ Ch || Ch <- don_martin:words(3), Ch == $  ]) ) }
+
+    ] }.
