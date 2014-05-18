@@ -76,6 +76,42 @@ Don Martin is a cartoonist noted in part for extensive use of creative onomatopo
 
 
 
+
+
+tl;dr
+-----
+
+`rebar g-d co eu doc`
+
+
+
+
+
+Current Library Status: *Usable*
+--------------------------------
+
+This library is considered to be ready for use and trusted.
+
+Inasmuch as you can trust something this silly, that is.
+
+Improvements will be gladly accepted.
+
+
+
+Author
+------
+
+* [John Haugeland](mailto:stonecypher@gmail.com) of [http://fullof.bs/](http://fullof.bs/).
+
+
+
+Copyright
+---------
+
+Copyright (c) 2014 John Haugeland.  All rights reserved.
+
+
+
 Polemic :neckbeard:
 -------------------
 
